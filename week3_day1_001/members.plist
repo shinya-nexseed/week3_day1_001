@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>akira</key>
+	<dict>
+		<key>name</key>
+		<string>Akira Maeda</string>
+		<key>age</key>
+		<string>25</string>
+		<key>gender</key>
+		<string>male</string>
+	</dict>
+	<key>ami</key>
+	<dict>
+		<key>name</key>
+		<string>Ami Ohsugi</string>
+		<key>age</key>
+		<string>28</string>
+		<key>gender</key>
+		<string>female</string>
+	</dict>
+	<key>iyo</key>
+	<dict>
+		<key>name</key>
+		<string>Iyo Koda</string>
+		<key>age</key>
+		<string>25</string>
+		<key>gender</key>
+		<string>male</string>
+	</dict>
+	<key>kenichiro</key>
+	<dict>
+		<key>name</key>
+		<string>Kenichiro Taniguchi</string>
+		<key>age</key>
+		<string>25</string>
+		<key>gender</key>
+		<string>male</string>
+	</dict>
+	<key>seiya</key>
+	<dict>
+		<key>name</key>
+		<string>Seiya Tamura</string>
+		<key>age</key>
+		<string>25</string>
+		<key>gender</key>
+		<string>male</string>
+	</dict>
+	<key>shinpei</key>
+	<dict>
+		<key>name</key>
+		<string>Shinpei Ohsugi</string>
+		<key>age</key>
+		<string>25</string>
+		<key>gender</key>
+		<string>male</string>
+	</dict>
+	<key>migitamachan</key>
+	<dict>
+		<key>name</key>
+		<string>Migitamachan</string>
+		<key>age</key>
+		<string>25</string>
+		<key>gender</key>
+		<string>male</string>
+	</dict>
+</dict>
+</plist>
